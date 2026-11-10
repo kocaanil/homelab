@@ -1,0 +1,6 @@
+# Homelab services
+- Monitoring:
+    - Uptime Kuma:
+        icon: uptime-kuma.png
+        href: http://localhost:3001
+        description: Uptime monitoring for my services
